@@ -79,7 +79,7 @@ When added all PCBs just use the checkout like in any other onlineshop.
 - **nitrile or latex gloves**
 - **tape**
 - **X × Y WS2812 LEDs**
-- **X × Y 100µF Capacitors** (These are only needed if mentioned in your LEDs Datasheet. If you are not sure, add them as they are beneficial for better Data transmission)
+- **X × Y 100µF Capacitors** (These are only needed if mentioned in your LEDs Datasheet. If you are not sure, add them as they are beneficial for better data transmission)
 
 ### Soldering
 
@@ -87,30 +87,30 @@ When added all PCBs just use the checkout like in any other onlineshop.
 
 Build a jig for the PCB you want to build: Use a flat surface, place your PCB and arrange other PCBs around. fix them in place with tape.
 
-![PCB jig](https://github.com/kkitdesign/ws2812-matrix/blob/3ca83042f64ae6c501c671841be4000ca159a300/resources/PCB%20jig.jpg)
+![PCB jig](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/PCB%20jig.jpg)
 
 #### 2. Align stencil
 
 Align your Stencil and fix it on one side with tape
 
-![align stencil](https://github.com/kkitdesign/ws2812-matrix/blob/3ca83042f64ae6c501c671841be4000ca159a300/resources/align%20stencil.jpg)
+![align stencil](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/align%20stencil.jpg)
 
 #### 3. Apply solder paste
 
 Put some solder paste on your stencil and spread it evenly over all holes, remove excess paste.
 
-![apply paste](https://github.com/kkitdesign/ws2812-matrix/blob/3ca83042f64ae6c501c671841be4000ca159a300/resources/apply%20paste%202.jpg)
+![apply paste](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/apply%20paste%202.jpg)
 
 #### 4. Remove Stencil and place components
 
 Place your components onto the fresh solder paste. *Note:* Some Components have a distinct orientation, please place accordingly
-![place components](https://github.com/kkitdesign/ws2812-matrix/blob/3ca83042f64ae6c501c671841be4000ca159a300/resources/place%20components%202.jpg)
+![place components](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/place%20components%202.jpg)
 
 #### 5. Heat your reflow device and solder your PCB
 
 Set the correct temperature and place your PCB in/on your reflow device. *Note:* When soldering is finished the PCBs are be hot, please be cautious or burns/injuries may occur!
 
-![reflow](https://github.com/kkitdesign/ws2812-matrix/blob/9bba9e021f6b20ebc36431b39335a9ca7949ede8/resources/reflow-1.gif)
+![reflow](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/reflow-1.gif)
 
 #### 6. Wire and test
 
@@ -120,7 +120,7 @@ Finally vou can wire your finished PCBs. Use them as you like, but don't exceed 
 
 If you need some inspiration or a basic script to start with have a look at [scripts](https://github.com/kkitdesign/ws2812-array/tree/main/scripts)!
 
-![example random](https://github.com/kkitdesign/ws2812-matrix/blob/6ec907db2880f4cc57e6b9c1abe17a1beb627e6c/resources/random.gif)
+![example random](https://github.com/kkitdesign/ws2812-array/blob/40529c479d8c9b486bf6357b3c7a2d97c2f17529/resources/random.gif)
 
 ## Mounting and integration
 
