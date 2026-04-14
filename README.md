@@ -118,10 +118,10 @@ Finally vou can wire your finished PCBs. Use them as you like, but don't exceed 
 
 ## Basic examples
 
-If you need some inspiration or a basic script to start with have a look at **scripts**!
+If you need some inspiration or a basic script to start with have a look at [scripts](https://github.com/kkitdesign/ws2812-array/tree/main/scripts)!
 
-![exmaple random](https://github.com/kkitdesign/ws2812-matrix/blob/6ec907db2880f4cc57e6b9c1abe17a1beb627e6c/resources/random.gif)
+![example random](https://github.com/kkitdesign/ws2812-matrix/blob/6ec907db2880f4cc57e6b9c1abe17a1beb627e6c/resources/random.gif)
 
-
+For all mechanical drawings visit [mechanical](https://github.com/kkitdesign/ws2812-array/tree/main/mechanical).
 
 
