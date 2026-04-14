@@ -128,6 +128,6 @@ The arrays can be combined with fitting diffusers using M3-screws, just make sur
 
 To mount the arrays there are 3mm holes exactly 10mm from the outer edges, the 8×8 and 10×10 also have one mounting hole in the center to prevent the diffuser from bending away. All holes can be used to mount the diffusers to your project, but don't overtighten them and use a nylon washer to prevent scratching the soldermask. In combination with the metal screw shortages could occur.
 
-For all mechanical drawings visit [mechanical](https://github.com/kkitdesign/ws2812-array/tree/main/mechanical).
+For mechanical drawings visit [mechanical](https://github.com/kkitdesign/ws2812-array/tree/main/mechanical).
 
 
