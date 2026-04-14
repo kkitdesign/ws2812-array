@@ -124,7 +124,7 @@ If you need some inspiration or a basic script to start with have a look at [scr
 
 ## Mounting and integration
 
-The arrays can be combined with fitting diffusers using M3-screws, just make sure they are not too long and damage the front plane. If needed the diffusers can be used to combine multiple arrays, just combine them in your CAD-Software or slicer.
+The arrays can be combined with fitting diffusers using M3-screws, just make sure they are not too long and damage the front plane. If needed the diffusers can be used to combine multiple arrays, just attach them side by side in your CAD-Software or slicer.
 
 To mount the arrays there are 3mm holes exactly 10mm from the outer edges, the 8×8 and 10×10 also have one mounting hole in the center to prevent the diffuser from bending away. All holes can be used to mount the diffusers to your project, but don't overtighten them and use a nylon washer to prevent scratching the soldermask. In combination with the metal screw shortages could occur.
 
